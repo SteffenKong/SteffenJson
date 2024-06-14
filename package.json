@@ -1,0 +1,25 @@
+{
+  "name": "steffenjson",
+  "version": "1.0.0",
+  "description": "基于JavaScript编写的通用业务JSON工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteffenKong/SteffenJson.git"
+  },
+  "keywords": [
+    "json",
+    "JSON",
+    "output",
+    "buildJson"
+  ],
+  "author": "SteffenKong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteffenKong/SteffenJson/issues"
+  },
+  "homepage": "https://github.com/SteffenKong/SteffenJson#readme"
+}
